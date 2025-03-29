@@ -12,7 +12,7 @@
 
 This guide is incomplete, and as such **will *probably*** contain errors.
 
-Successfully configuring this HomeLAB enviornment in your QNAP will require tweaking and troubleshooting.
+Successfully configuring this HomeLAB environment in your QNAP will require tweaking and troubleshooting.
 
 Consider joining and contributing to the [QNAP Unofficial Discord](https://discord.gg/NaxEB4sz7G), a community built around advice on everything QNAP. We have helpful members, FAQs, community Docker images, and cookies (well, maybe not cookies).
 
@@ -22,7 +22,7 @@ Thanks for checking out this guide. Please click on the Docker Scripts link belo
 
 [Docker Helper Scripts for Terminal Management](https://github.com/QNAP-HomeLAB/docker-scripts#readme)
 
-[Docker Compose setup instructions](https://github.com/QNAP-HomeLAB/docker-compose/tree/master#readme)
+[Docker Local setup instructions](https://github.com/QNAP-HomeLAB/docker-local/tree/master#readme)
 
 [Docker Swarm setup instructions](https://github.com/QNAP-HomeLAB/docker-swarm/tree/master#readme)
 
